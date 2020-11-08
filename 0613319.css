@@ -1,0 +1,10 @@
+.grid {
+    stroke: #CF7D1C;
+	fill: #000000;
+} 
+
+div{
+	position: absolute;
+    left: 460px;
+    top: -50px;
+}
